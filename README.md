@@ -1,4 +1,4 @@
-# E-commerce-website -BookWorld
+# E-commerce website  BookWorld
 It is  a fully functional e-commerce website called BookWorld where users can browse a wide range of books, register, log in, manage their shopping cart, and proceed to checkout. The platform is built using Django for the backend, MySQL for database management, and Bootstrap for the responsive front-end design.
 
 Key Features:
